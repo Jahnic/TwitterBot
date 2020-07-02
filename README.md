@@ -8,3 +8,5 @@ Repository contains code of the following:
     * In Progress
   * Creation of Twitter Bot AI
     * In Progress
+
+## https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1
